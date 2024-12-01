@@ -1,0 +1,10 @@
+# Package Manager
+node_modules
+.pnpm-debug.log*
+
+# Bundle
+dist
+coverage
+
+# Editor directories and files
+.idea
